@@ -4,6 +4,7 @@ Loca
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/microrealestate)
 [![Build Status](https://travis-ci.org/camelaissani/loca.svg?branch=master)](https://travis-ci.org/camelaissani/loca)
 [![Coverage Status](https://coveralls.io/repos/github/camelaissani/loca/badge.svg?branch=master)](https://coveralls.io/github/camelaissani/loca?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvenkatreddyc%2Floca.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvenkatreddyc%2Floca?ref=badge_shield)
 <sup>Only backend code is covered see issues [#8](https://github.com/camelaissani/loca/issues/8) and [#9](https://github.com/camelaissani/loca/issues/9)</sup>
 
 ## What's Loca?
@@ -44,3 +45,7 @@ Simply to help my best friend and I to manage properties that we rent.
 
 Above all, to have a good reason to play with node and javascript :-)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvenkatreddyc%2Floca.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvenkatreddyc%2Floca?ref=badge_large)
